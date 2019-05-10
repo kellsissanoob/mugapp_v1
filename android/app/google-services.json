@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "678585681495",
+    "firebase_url": "https://mugapp-v1.firebaseio.com",
+    "project_id": "mugapp-v1",
+    "storage_bucket": "mugapp-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678585681495:android:5d59a29c465580e1",
+        "android_client_info": {
+          "package_name": "com.example.hello_mugapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678585681495-d8qed2r130mniqcibnh124l8ba63323m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOCoR0jQMFCoe3MvSCTe24QNrAF9ceaWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678585681495-d8qed2r130mniqcibnh124l8ba63323m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
