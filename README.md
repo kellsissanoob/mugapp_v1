@@ -1,16 +1,8 @@
 # mugapp_v1
 
-A new Flutter project.
+This is a Final Year Project. Built on Flutter SDK and Dart Language 
+along with Google Firebase serving as backend. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+A classroom app to allow teacher to upload tutorial and students to answer/submit.
+Comes with a simple rewarding system that acts as the "gamification element" in the app
+for students who complete a submission and to subject to verify by the teacher.
